@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Dilshajith</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dilshanjith&label=Profile%20views&color=0e75b6&style=flat" alt="Dilshanjith" /> </p>
 <center>
 <br>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47r8t5ao9fu3vavlkf8vm0gnb3pja440o0qmdsthup&ep=v1_gifs_related&rid=giphy.gif&ct=g"  width="500">
