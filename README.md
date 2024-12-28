@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Dilshajith</h1>
 <center>
 <br>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47iz9v1ii8dwax4mfcwdsqkv41oyba31kniyyy35wc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  width="500">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47r8t5ao9fu3vavlkf8vm0gnb3pja440o0qmdsthup&ep=v1_gifs_related&rid=giphy.gif&ct=g"  width="500">
 </br>
 
 <h3>A developer from Srilanka</h3>
